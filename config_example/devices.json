@@ -1,0 +1,65 @@
+[{
+    "relay": 1,
+    "device": "ATV01",
+    "gpio": 2
+}, {
+    "relay": 2,
+    "device": "ATV02",
+    "gpio": 3
+}, {
+    "relay": 3,
+    "device": "ATV03",
+    "gpio": 4
+}, {
+    "relay": 4,
+    "device": "ATV04",
+    "gpio": 17
+}, {
+    "relay": 5,
+    "device": "ATV05",
+    "gpio": 18
+}, {
+    "relay": 6,
+    "device": "ATV06",
+    "gpio": 27
+}, {
+    "relay": 7,
+    "device": "ATV07",
+    "gpio": 22
+}, {
+    "relay": 8,
+    "device": "ATV08",
+    "gpio": 23
+}, {
+    "relay": 9,
+    "device": "ATV09",
+    "gpio": 24
+}, {
+    "relay": 10,
+    "device": "ATV10",
+    "gpio": 10
+}, {
+    "relay": 11,
+    "device": "ATV11",
+    "gpio": 9
+}, {
+    "relay": 12,
+    "device": "ATV12",
+    "gpio": 11
+}, {
+    "relay": 13,
+    "device": "ATV13",
+    "gpio": 5
+}, {
+    "relay": 14,
+    "device": "ATV14",
+    "gpio": 6
+}, {
+    "relay": 15,
+    "device": "ATV15",
+    "gpio": 13
+}, {
+    "relay": 16,
+    "device": "ATV16",
+    "gpio": 19
+}]

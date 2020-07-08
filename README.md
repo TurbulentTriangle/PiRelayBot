@@ -33,4 +33,4 @@ A Discord bot to run on a Raspberry Pi that reads MADevice notifications and aut
 
 
 ## STARTING BOT
-> node RelayToggle.js
+> node PiRelayBot.js

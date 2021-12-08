@@ -2,7 +2,7 @@
   "description": "A simple Discord bot to run on a Raspberry Pi that reads MADevice notifications and manually power cycles relays connected to the GPIO pins.",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/RagingRectangle/MADevice-Relay-Toggle.git"
+    "url": "git+https://github.com/TurbulentTriangle/PiRelayBot.git"
   },
   "license": "ISC",
   "requires": true,
@@ -14,11 +14,11 @@
     "onoff": "^6.0.0",
     "wait-loop": "^1.0.0"
   },
-  "name": "relaybot",
+  "name": "PiRelayBot",
   "bugs": {
-    "url": "https://github.com/RagingRectangle/MADevice-Relay-Toggle/issues"
+    "url": "https://github.com/TurbulentTriangle/PiRelayBot/issues"
   },
-  "homepage": "https://github.com/RagingRectangle/MADevice-Relay-Toggle#readme",
+  "homepage": "https://github.com/TurbulentTriangle/PiRelayBot#readme",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
@@ -30,5 +30,5 @@
     "madevice",
     "relay"
   ],
-  "author": "RagingRectangle"
+  "author": "TurbulentTriangle"
 }
